@@ -2,7 +2,6 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>vehome</title>
-    <!--<link href="https://www.feng666.cc/hovertreewelcome.css" type="text/css" rel="stylesheet" />-->
 	<style type="text/css">
         * {
             margin: 0;
